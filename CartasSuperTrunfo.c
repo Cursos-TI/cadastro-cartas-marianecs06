@@ -28,51 +28,57 @@ int main (){
     // Área para entrada de dados
     printf("Carta 1\n");
 
-    printf("Digite o estado: \n");
+    printf("Estado: \n");
     scanf(" %c", &estado1);
 
-    printf("Digite o código: \n");
+    printf("Código: \n");
     scanf("%s", codigo1);
 
-    printf("Digite a cidade: \n");
+    printf("Nome da Cidade: \n");
     scanf("%s", cidade1);
 
-    printf("Digite o número de população: \n");
+    printf("População: \n");
     scanf("%d", &populacao1);
 
-    printf("Digite a área: \n");
+    printf("Área: \n");
     scanf("%f", &area1);
 
-    printf("Digite o PIB: \n");
+    printf("PIB: \n");
     scanf("%f", &pib1);
 
-    printf("Digite o número de pontos turísticos: \n");
+    printf("Número de Pontos Turísticos: \n");
     scanf("%d", &pontosturisticos1);
 
 
     printf("Carta 2\n");
 
-    printf("Digite o estado: \n");
+    printf("Estado: \n");
     scanf(" %c", &estado2);
 
-    printf("Digite o código: \n");
+    printf("Código: \n");
     scanf("%s", codigo2);
 
-    printf("Digite a cidade: \n");
+    printf("Nome da cidade: \n");
     scanf("%s", cidade2);
 
-    printf("Digite o número de população: \n");
+    printf("População: \n");
     scanf("%d", &populacao2);
 
-    printf("Digite a área: \n");
+    printf("Área: \n");
     scanf("%f", &area2);
 
-    printf("Digite o PIB: \n");
+    printf("PIB: \n");
     scanf("%f", &pib2);
 
-    printf("Digite o número de pontos turísticos: \n");
+    printf("Número de Pontos Turísticos: \n");
     scanf("%d", &pontosturisticos2);
 
+    /*
+    %d: Imprime um inteiro no formato decimal.
+    %f: Imprime um número de ponto flutuante no formato padrão.
+    %c: Imprime um único caractere.
+    %s: Imprime uma cadeia (string) de caracteres.
+    */
 
     // Área para exibição dos dados da cidade
     //Carta 1
