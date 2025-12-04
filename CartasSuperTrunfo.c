@@ -82,6 +82,7 @@ int main (){
 
     // Área para exibição dos dados da cidade
     //Carta 1
+    printf("Carta 1 \n");
     printf("Estado: %c\n", estado1);
     printf("Código: %s\n", codigo1);
     printf("Cidade: %s\n", cidade1);
@@ -90,7 +91,10 @@ int main (){
     printf("PIB: %.2f bilhões de reais\n", pib1);
     printf("Pontos Turísticos: %d\n", pontosturisticos1);
 
+    printf("\n");
+    
     //Carta 2
+    printf("Carta 2 \n");
     printf("Estado: %c\n", estado2);
     printf("Código: %s\n", codigo2);
     printf("Cidade: %s\n", cidade2);
