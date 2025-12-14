@@ -113,7 +113,7 @@ int main (){
     //Pontos Turísticos (Maior vence)
     vencedorPontosTuristicos = pontosTuristicos1 > pontosTuristicos2;
 
-    //Densidade Populacional (Atenção: Menor valor vence!)
+    //Densidade Populacional (Atenção: Menor valor vence)
     vencedorDensidade = densidadePopulacional1 < densidadePopulacional2; // Carta 1 vence se for MENOR
 
     // 6. PIB per Capita (Maior vence)
