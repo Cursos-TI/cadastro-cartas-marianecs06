@@ -86,7 +86,7 @@ int main (){
     densidadePopulacional2 = (float)populacao2 / area2;
     pibPerCapita2 = pib2 / populacao2;
 
-    // COMPARAÇÃO USANDO IF/ELSE (ATRIBUTO: POPULAÇÃO)
+    // Comparação usando if/else (Atributo: Área)
     // Regra da Área: O maior valor vence.
 
     printf("Comparação de cartas (Atributo: Área)\n");
